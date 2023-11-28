@@ -10,3 +10,11 @@ Isenção de responsabilidade:
 Este é um guia pessoal, não um periódico revisado por pares ou uma publicação patrocinada. Não fazemos declarações quanto à exatidão, integridade, exatidão, adequação ou validade de qualquer informação e não seremos responsáveis por quaisquer erros, omissões ou atrasos nessas informações ou por quaisquer perdas, lesões ou danos decorrentes de sua exibição ou uso. Todas as informações são fornecidas tal como estão. É responsabilidade do leitor verificar seus próprios fatos.
 
 Os pontos de vista e opiniões expressos neste guia são de responsabilidade dos autores e não refletem necessariamente a política ou posição oficial de qualquer outra agência, organização, empregador ou empresa. As suposições feitas na análise não refletem a posição de qualquer entidade que não seja o(s) autor(es) e, como somos seres humanos que pensam criticamente, essas opiniões estão sempre sujeitas a mudanças, revisões e repensações a qualquer momento. Por favor, não nos prenda a eles para sempre.
+
+
+
+Exemplo:
+Este é um código de exemplo de como salvar variaveis do PLC nos formato JSON ou XSL. Os dados do PLC são uma estrutura MyStructure (DUT) e estão declarados em formato de ARRAY OF MyStructure.
+
+Exemplo:
+Este é um código de exemplo de como salvar variáveis do PLC no formato JSON ou XSL. Os dados do PLC são uma estrutura MyStructure (DUT) e estão declarados no formato de ARRAY OF MyStructure.
