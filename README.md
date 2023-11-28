@@ -11,6 +11,7 @@ Este é um guia pessoal, não um periódico revisado por pares ou uma publicaç�
 
 Os pontos de vista e opiniões expressos neste guia são de responsabilidade dos autores e não refletem necessariamente a política ou posição oficial de qualquer outra agência, organização, empregador ou empresa. As suposições feitas na análise não refletem a posição de qualquer entidade que não seja o(s) autor(es) e, como somos seres humanos que pensam criticamente, essas opiniões estão sempre sujeitas a mudanças, revisões e repensações a qualquer momento. Por favor, não nos prenda a eles para sempre.
 
+(********************************************************************************************************************************************************************************************************************)
 
 
 Exemplo:
