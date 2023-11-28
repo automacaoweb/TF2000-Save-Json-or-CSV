@@ -19,3 +19,7 @@ Este é um código de exemplo de como salvar variaveis do PLC nos formato JSON o
 
 Exemplo:
 Este é um código de exemplo de como salvar variáveis do PLC no formato JSON ou XSL. Os dados do PLC são uma estrutura MyStructure (DUT) e estão declarados no formato de ARRAY OF MyStructure.
+
+
+![image](https://github.com/automacaoweb/TF2000-Save-Json-or-CSV/assets/47016284/9e53d8bc-102c-4a76-af0d-b017cab34f9c)
+
