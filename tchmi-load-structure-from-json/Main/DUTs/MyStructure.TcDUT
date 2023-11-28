@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <DUT Name="MyStructure" Id="{07dcead1-0a38-4eea-91f7-f7ca26714027}">
+    <Declaration><![CDATA[TYPE MyStructure :
+STRUCT
+	Name : STRING;
+	Parameter_01 : REAL;
+	Parameter_02 : REAL;
+	Parameter_03 : REAL;
+	Parameter_04 : REAL;
+	Parameter_05 : REAL;
+	Parameter_06 : REAL;
+	Parameter_07 : REAL;
+	Parameter_08 : REAL;
+	Parameter_09 : REAL;
+	Parameter_10 : REAL;
+	Status : BOOL ;	
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>
